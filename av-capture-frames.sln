@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "av-capture-frames", "av-capture-frames.csproj", "{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		Ad-Hoc|Mixed Platforms = Ad-Hoc|Mixed Platforms
+		AppStore|Any CPU = AppStore|Any CPU
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		AppStore|Mixed Platforms = AppStore|Mixed Platforms
+		Debug|Any CPU = Debug|Any CPU
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|Any CPU = Release|Any CPU
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Ad-Hoc|Any CPU.ActiveCfg = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Ad-Hoc|iPhone.ActiveCfg = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Ad-Hoc|iPhone.Build.0 = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Ad-Hoc|Mixed Platforms.ActiveCfg = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Ad-Hoc|Mixed Platforms.Build.0 = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.AppStore|Any CPU.ActiveCfg = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.AppStore|iPhone.ActiveCfg = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.AppStore|iPhone.Build.0 = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.AppStore|iPhoneSimulator.ActiveCfg = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.AppStore|Mixed Platforms.ActiveCfg = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.AppStore|Mixed Platforms.Build.0 = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Debug|iPhone.Build.0 = Debug|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Debug|Mixed Platforms.ActiveCfg = Debug|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Debug|Mixed Platforms.Build.0 = Debug|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Release|Any CPU.ActiveCfg = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Release|iPhone.ActiveCfg = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Release|iPhone.Build.0 = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Release|Mixed Platforms.ActiveCfg = Release|iPhone
+		{03B4BFB8-0CBB-4A21-805C-2614FA8FE489}.Release|Mixed Platforms.Build.0 = Release|iPhone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = av-capture-frames.csproj
+	EndGlobalSection
+EndGlobal
